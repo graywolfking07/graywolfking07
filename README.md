@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://tenor.com/view/urahara-bankai-gif-26682256">
 <!--
 **graywolfking07/graywolfking07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

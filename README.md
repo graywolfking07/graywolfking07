@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image1.png)
+![Header](./github-header-image(1).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=graywolfking07&label=Profile%20views&color=0e75b6&style=flat" alt="graywolfking07" /> </p>
 
